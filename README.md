@@ -10,7 +10,7 @@ An example REST API using React.js as the frontend, Node.js as the backend, and 
 NOTE: the data being queried in this example REST API is from the 'demodb' of OrientDB, so please make sure to have access to that specific database with an appropriate root username and root password.
 
 ## Testing functionality
-Once both the frontend and backend are running locally, and OrientDB is initialized, visit 'Menu Item 3' in the sidebar of the frontend UI. 
+Once both the frontend and backend are running locally, and OrientDB Studio is initialized, visit 'Menu Item 3' in the sidebar of the frontend UI. 
 Click on the 'Get Backend Data' button to query data from the OrientDB and present it onscreen. 
 
 ## Why it works
